@@ -1,0 +1,17 @@
+-classpath '/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/build/classes/java/main:/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/build/resources/main'
+-quiet 
+-d '/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/build/docs/javadoc'
+-windowtitle 'library 1.0.0 API'
+-doctitle 'library 1.0.0 API'
+-notimestamp 
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/Book.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/BookCatalog.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/BookNotFoundException.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/Customer.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/Loan.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/LoanAlreadyExistsException.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/LoanNotFoundException.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/models/Material.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/ui/Main.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/utilities/GenderType.java'
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/gradle/test/library/src/main/java/utilities/LoanStatus.java'

@@ -1,0 +1,7 @@
+Tasks I need to create 'classes, docs, generated, reports och test reports':
+
+gradle clean - cleans the project (deletes build/) for a fresh build
+gradle build - This command compiles the code, compiles the tests, runs JUnit 5 tests,
+creates test results in: build/test-results/test/, creates HTML test reports in:
+build/reports/tests/test/ and creates .jar-file in: build/ilbs/
+gradle javadoc - creates HTML documentation in: build/docs/javadoc/
