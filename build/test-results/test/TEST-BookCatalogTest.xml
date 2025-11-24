@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-21T10:01:59.147Z" hostname="DESKTOP-GB5S4I3" time="0.052">
+<testsuite name="BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-24T09:03:41.709Z" hostname="DESKTOP-GB5S4I3" time="0.052">
   <properties/>
-  <testcase name="testAddABook()" classname="BookCatalogTest" time="0.04"/>
+  <testcase name="testAddABook()" classname="BookCatalogTest" time="0.042"/>
   <testcase name="testFindBook()" classname="BookCatalogTest" time="0.006"/>
   <testcase name="testFindBookIgnoringCase()" classname="BookCatalogTest" time="0.001"/>
   <testcase name="testFindBookWithExtraSpaces()" classname="BookCatalogTest" time="0.001"/>
